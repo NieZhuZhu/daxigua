@@ -41,8 +41,8 @@ let clickChangeFruit = false;
 let adLink =
   "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81ddb9d30a0f461489d6bc7d9c1079bd~tplv-k3u1fbpfcp-watermark.image";
 
-// 修改网页标题：将 "合成爱迪蛋" 进行替换
-document.getElementsByTagName("title")[0].innerText = "合成爱迪蛋";
+// 修改网页标题：将 "合成娜恩nin" 进行替换
+document.getElementsByTagName("title")[0].innerText = "合成娜恩nin";
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
